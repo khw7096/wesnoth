@@ -3,7 +3,10 @@
 - https://forums.wesnoth.org
 
 #### 한글모드로 실행하는 방법
-macOS
+- Steam Setting
+![steam_option](https://user-images.githubusercontent.com/1149996/48301063-c9b0e280-e52a-11e8-9f4c-2ac50bbfbbe1.png)
+
+- macOS cmd
 ```
 $ /Users/woong/Library/Application\ Support/Steam/steamapps/common/wesnoth/Wesnoth.app/Contents/MacOS/Wesnoth --all-translations
 ```
