@@ -3,8 +3,9 @@
 - https://forums.wesnoth.org
 
 #### 한글모드로 실행하는 방법
+macOS
 ```
-$ /Users/woong/Library/Application Support/Steam/steamapps/common/wesnoth/Wesnoth.app/Contents/MacOS/Wesnoth --all-translations
+$ /Users/woong/Library/Application\ Support/Steam/steamapps/common/wesnoth/Wesnoth.app/Contents/MacOS/Wesnoth --all-translations
 ```
 
 #### Save file path
