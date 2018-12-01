@@ -1,4 +1,5 @@
 # wesnoth
+lazypic에서 즐겨하는 오픈소스 게임입니다. 개발자 에릭레이몬드가 참여했다고 해서 테스트겸 해보다가 몇분이 빠져버렸습니다. 하하!!
 - https://www.wesnoth.org
 - https://forums.wesnoth.org
 
